@@ -5,4 +5,5 @@ int main() {
     int myothernum;
     myothernum = mynum;
     printf("%d", myothernum);
+    return 0;
 }
